@@ -2,21 +2,21 @@ body {
   font-family: Arial, sans-serif;
   padding: 40px;
   text-align: center;
-  background-color: navajowhite;
+  background-color:#C7D3C0;
 }
 
 .card {
-  background-color: rgb(236, 195, 143);
+  background-color: #8FA28A;
   max-width: 800px;
   padding: 40px;
   margin: 0 auto;
   border-radius: 10px;
-  box-shadow: 0 4px 8px gray;
+  box-shadow: 0 4px 8px #F7F4ED;
   transition: transform 0.3s, background-color 0.3s ease
 }
 
 .card:hover {
-  background-color: khaki;
+  background-color: #C8A96B;
   transform: scale(1.1);
 }
 
@@ -45,7 +45,7 @@ h1::after {
   padding: 10px 20px;
   border-radius: 5px;
   color: white;
-  background-color: midnightblue;
+  background-color: #C8A96B;
   transition: background-color 0.3s ease;
 }
 
